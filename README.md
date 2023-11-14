@@ -18,4 +18,4 @@ The dataset used for this project is included in the 'Resources' folder of this 
 'crypto_market_data.csv.' This dataset has been provided by the Penn Data Analysis and Visualization Bootcamp. 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
